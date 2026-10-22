@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 8,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.8.0/EmberStation-0.8.0.apk",
-  "sha256": "fa5237584a7f7009f9e0c8a36263ad2998e02640386d2b63cd44de1a7b59fb40",
-  "bytes": 76031655,
+  "versionCode": 9,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.9.0/EmberStation-0.9.0.apk",
+  "sha256": "f8ad85e7b007cd14c5503a290bd5e863433050cb90f542410f36567dac371123",
+  "bytes": 84282193,
   "notes": [
-    "灯下工坊：自定义故事、人物、装备与羁绊，ChatGPT格式化内容导入",
-    "三地区大地图与通关解锁，自定义故事自动加入地图",
-    "自定义主页壁纸，扩展定义随存档保存与备份，原签名覆盖更新"
+    "灰烬牌馆：五层23节点、七局、分支与三类五结局",
+    "魂牌、焚牌遗忘、遗物、规则扭曲；新增人物装备与跨局记忆",
+    "原创手绘大地图，拖动/双指缩放、地标和五层路线图"
   ],
-  "source_commit": "a0107029af4cc40ec8d4b23ed37a9f27915450c7"
+  "source_commit": "23dbc8b62fa574e1af8d6f8988bbabcd3130a194"
 }
