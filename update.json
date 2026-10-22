@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.1.0/EmberStation-0.1.0.apk",
-  "sha256": "abbe056c453feb1edc04c2fb45f99a0a15663013467e290e65ca9075a3ec8a90",
-  "bytes": 51103123,
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.2.0/EmberStation-0.2.0.apk",
+  "sha256": "079fe59286c15b1f60faf12c46b44304f20dead700d2d529c142b37c754d52d4",
+  "bytes": 67391183,
   "notes": [
-    "首个安卓安装包：卡牌远行、故事事件与营地养成",
-    "新增启动检查与营地手动检查更新",
-    "固定包名和签名，后续覆盖更新保留局外存档"
+    "原创插画：送灯人、故事封面、敌人和营地建筑",
+    "新增人物招募、选择、主动技能、双人羁绊与三阶养成",
+    "新增装备掉落、碎片合成与三个穿戴部位；保留旧版营地进度"
   ],
-  "source_commit": "131d52667d61f88f23cece721e3f8fb220fd94cc"
+  "source_commit": "43d0c95ccbb84331810a185a08346d88a781f6d2"
 }
