@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 6,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.6.0/EmberStation-0.6.0.apk",
-  "sha256": "3d07c4b22d9b30c36051f774e764dde37ec7c17f966ab02795bfc0a7785d7baa",
-  "bytes": 75985646,
+  "versionCode": 7,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.7.0/EmberStation-0.7.0.apk",
+  "sha256": "46b1cf5bfe1544a771ede3b1df929233438219ac0c6daf9b318c1535f3d556d4",
+  "bytes": 76002243,
   "notes": [
-    "重绘晨光驿站与溪桥古道，下半屏保留可见景物",
-    "紧凑插画确认面板替换大灰框，人物事件保留完整脸部",
-    "轻量遮罩与长屏铺满；取消和返回不改档，确认仅执行一次"
+    "新增本局经验升级，随机提升体魄、力量、守势 1～2 点",
+    "属性/等级上限与三阶突破，结晶或试炼凭证换取大幅增强",
+    "战斗和故事掉经验与材料，历练奇遇、任务进度完整保存"
   ],
-  "source_commit": "c65e81c044580d3206ebc6533de87113313a92c2"
+  "source_commit": "c9089357e5eb65635e518accee14d8346f369e06"
 }
