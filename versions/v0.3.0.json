@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 3,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.3.0/EmberStation-0.3.0.apk",
+  "sha256": "0ddd666d9744a6749c3153cf49f12b7a5fe567cb80c6bfdfaf8e96ad7834f192",
+  "bytes": 67411737,
+  "notes": [
+    "本局自动存档与继续远行，战斗中退出也能恢复",
+    "新增文件/文本备份导入导出，导入前保留恢复副本",
+    "应用内下载、校验并请求系统覆盖安装，保留原有进度"
+  ],
+  "source_commit": "e20ca9f51ee8f3d331b55638d8569886d13e4e55"
+}
