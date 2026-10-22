@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 8,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.8.0/EmberStation-0.8.0.apk",
+  "sha256": "fa5237584a7f7009f9e0c8a36263ad2998e02640386d2b63cd44de1a7b59fb40",
+  "bytes": 76031655,
+  "notes": [
+    "灯下工坊：自定义故事、人物、装备与羁绊，ChatGPT格式化内容导入",
+    "三地区大地图与通关解锁，自定义故事自动加入地图",
+    "自定义主页壁纸，扩展定义随存档保存与备份，原签名覆盖更新"
+  ],
+  "source_commit": "a0107029af4cc40ec8d4b23ed37a9f27915450c7"
+}
