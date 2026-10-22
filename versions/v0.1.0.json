@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.1.0/EmberStation-0.1.0.apk",
+  "sha256": "abbe056c453feb1edc04c2fb45f99a0a15663013467e290e65ca9075a3ec8a90",
+  "bytes": 51103123,
+  "notes": [
+    "首个安卓安装包：卡牌远行、故事事件与营地养成",
+    "新增启动检查与营地手动检查更新",
+    "固定包名和签名，后续覆盖更新保留局外存档"
+  ],
+  "source_commit": "131d52667d61f88f23cece721e3f8fb220fd94cc"
+}
