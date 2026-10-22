@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 9,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.9.0/EmberStation-0.9.0.apk",
+  "sha256": "f8ad85e7b007cd14c5503a290bd5e863433050cb90f542410f36567dac371123",
+  "bytes": 84282193,
+  "notes": [
+    "灰烬牌馆：五层23节点、七局、分支与三类五结局",
+    "魂牌、焚牌遗忘、遗物、规则扭曲；新增人物装备与跨局记忆",
+    "原创手绘大地图，拖动/双指缩放、地标和五层路线图"
+  ],
+  "source_commit": "23dbc8b62fa574e1af8d6f8988bbabcd3130a194"
+}
