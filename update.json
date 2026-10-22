@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 5,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.5.0/EmberStation-0.5.0.apk",
-  "sha256": "38e9cf59359351bb1acdcb9bfacea7f4265aa90f27971683f1b22e1ca50c3fd6",
-  "bytes": 70586696,
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.6.0/EmberStation-0.6.0.apk",
+  "sha256": "3d07c4b22d9b30c36051f774e764dde37ec7c17f966ab02795bfc0a7785d7baa",
+  "bytes": 75985646,
   "notes": [
-    "主页分步选择故事封面、旅途方式与出发确认",
-    "冒险单屏布局，底部手牌预览后确认打出，超过五张左右翻页",
-    "修复图片阻断触摸和滑动误点，卡组与记录收入旅途菜单"
+    "重绘晨光驿站与溪桥古道，下半屏保留可见景物",
+    "紧凑插画确认面板替换大灰框，人物事件保留完整脸部",
+    "轻量遮罩与长屏铺满；取消和返回不改档，确认仅执行一次"
   ],
-  "source_commit": "1b36f3f4d66caf3e799a3e3d4f5397e79c212281"
+  "source_commit": "c65e81c044580d3206ebc6533de87113313a92c2"
 }
