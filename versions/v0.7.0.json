@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 7,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.7.0/EmberStation-0.7.0.apk",
+  "sha256": "46b1cf5bfe1544a771ede3b1df929233438219ac0c6daf9b318c1535f3d556d4",
+  "bytes": 76002243,
+  "notes": [
+    "新增本局经验升级，随机提升体魄、力量、守势 1～2 点",
+    "属性/等级上限与三阶突破，结晶或试炼凭证换取大幅增强",
+    "战斗和故事掉经验与材料，历练奇遇、任务进度完整保存"
+  ],
+  "source_commit": "c9089357e5eb65635e518accee14d8346f369e06"
+}
