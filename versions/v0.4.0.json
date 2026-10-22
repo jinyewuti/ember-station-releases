@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.4.0/EmberStation-0.4.0.apk",
+  "sha256": "9f13d79e753c3b2004e094a4ae132109f674fa7c19eac95caae7b6ee1f722d6d",
+  "bytes": 70574259,
+  "notes": [
+    "全新驿站与冒险背景、暖金色界面和双列手牌",
+    "装备整合人物页，点击装备槽查看、合成和更换",
+    "检查更新并入存档页，保留原有存档和自动续玩"
+  ],
+  "source_commit": "b50af4f294cb2570ad54a8cccb524ffc11a6ba74"
+}
