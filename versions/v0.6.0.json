@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 6,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.6.0/EmberStation-0.6.0.apk",
+  "sha256": "3d07c4b22d9b30c36051f774e764dde37ec7c17f966ab02795bfc0a7785d7baa",
+  "bytes": 75985646,
+  "notes": [
+    "重绘晨光驿站与溪桥古道，下半屏保留可见景物",
+    "紧凑插画确认面板替换大灰框，人物事件保留完整脸部",
+    "轻量遮罩与长屏铺满；取消和返回不改档，确认仅执行一次"
+  ],
+  "source_commit": "c65e81c044580d3206ebc6533de87113313a92c2"
+}
