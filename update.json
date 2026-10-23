@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 20,
-  "versionName": "0.20.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.20.0/EmberStation-0.20.0.apk",
-  "sha256": "a552ab545e97b6566854c56b7b4bdaff698c435b13a1144be7057c7a973c6188",
-  "bytes": 111966750,
+  "versionCode": 21,
+  "versionName": "0.21.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.21.0/EmberStation-0.21.0.apk",
+  "sha256": "9aa7bf4dea522bac9aa2567d85fcebf196875af19a210e3c47257d95692dcdde",
+  "bytes": 89586494,
   "notes": [
-    "修复安卓将读取缓冲区返回为Java对象导致备份无法导入的问题",
-    "导出读回核验显示具体错误及实际字节数，不再混同写入与读取失败",
-    "安卓模拟器已复现旧错误，并通过系统选择文件的导出和重新导入"
+    "按故事配置特色起始牌，出发前可保存每个故事的8张构筑",
+    "新增17张基础或收藏牌，通关依次永久解锁，可跨故事混搭",
+    "高质量压缩12张背景和壁纸，保留原分辨率、卡面图标与双架构兼容"
   ],
-  "source_commit": "3450a28bded164783fa2b2a4e117db21faa76014"
+  "source_commit": "07312baa179372484b17592eaf1e944585d819f9"
 }
