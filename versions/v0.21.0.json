@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 21,
+  "versionName": "0.21.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.21.0/EmberStation-0.21.0.apk",
+  "sha256": "9aa7bf4dea522bac9aa2567d85fcebf196875af19a210e3c47257d95692dcdde",
+  "bytes": 89586494,
+  "notes": [
+    "按故事配置特色起始牌，出发前可保存每个故事的8张构筑",
+    "新增17张基础或收藏牌，通关依次永久解锁，可跨故事混搭",
+    "高质量压缩12张背景和壁纸，保留原分辨率、卡面图标与双架构兼容"
+  ],
+  "source_commit": "07312baa179372484b17592eaf1e944585d819f9"
+}
