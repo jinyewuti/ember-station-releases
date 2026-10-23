@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 13,
+  "versionName": "0.13.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.13.0/EmberStation-0.13.0.apk",
+  "sha256": "3be72ecaa64007a758aabced699f9194b0b4738fc0b53c783d977dec04a5e7b2",
+  "bytes": 104469760,
+  "notes": [
+    "六类原创手牌插画、能量和伤害角标、简短效果说明",
+    "最多十张牌整排紧凑叠放，选中抬起，左右滑动预览，无需翻页",
+    "实际装备成长与仪式减费数值一致，保留确认打出与存档兼容"
+  ],
+  "source_commit": "b698022777e7152515315bd936ad71bb3bcb43da"
+}
