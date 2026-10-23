@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 10,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.10.0/EmberStation-0.10.0.apk",
+  "sha256": "415753f65d03ae8bac4055ae2a91b46431d37b3dd75b730f308652b1e40265b9",
+  "bytes": 96927804,
+  "notes": [
+    "五种原创风格壁纸，封面收藏、放大预览和历史切换",
+    "故事包可配置加入或通关解锁壁纸，不自动替换当前背景",
+    "旧自定义壁纸自动归档；上传与恢复默认保留历史，覆盖更新保留本机收藏"
+  ],
+  "source_commit": "edd820b6f9956a0822a1dad16b9844ad283291f3"
+}
