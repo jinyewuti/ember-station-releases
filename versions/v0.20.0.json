@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 20,
+  "versionName": "0.20.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.20.0/EmberStation-0.20.0.apk",
+  "sha256": "a552ab545e97b6566854c56b7b4bdaff698c435b13a1144be7057c7a973c6188",
+  "bytes": 111966750,
+  "notes": [
+    "修复安卓将读取缓冲区返回为Java对象导致备份无法导入的问题",
+    "导出读回核验显示具体错误及实际字节数，不再混同写入与读取失败",
+    "安卓模拟器已复现旧错误，并通过系统选择文件的导出和重新导入"
+  ],
+  "source_commit": "3450a28bded164783fa2b2a4e117db21faa76014"
+}
