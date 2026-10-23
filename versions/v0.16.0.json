@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 16,
+  "versionName": "0.16.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.16.0/EmberStation-0.16.0.apk",
+  "sha256": "cd82c3616e58da5e21365343f465ffc15ea050c4e7c68aab1cb7364c638cf43c",
+  "bytes": 111950060,
+  "notes": [
+    "地图移除全部圆圈标记，仅保留四个地点标签，见闻改为文字入口",
+    "营地新增锻造坊、演武场、药圃，提升下次远行的伤害、格挡与回合恢复",
+    "五栋建筑改为两列原创插画卡片，显示当前收益、下一级效果与费用"
+  ],
+  "source_commit": "f4aa24ca05cef4217b9963a024d9ad837a49b87d"
+}
