@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 18,
+  "versionName": "0.18.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.18.0/EmberStation-0.18.0.apk",
+  "sha256": "6f0b31614006ca7cc07139b610213714ac6b7ff2b3d7210505b8812b12f91126",
+  "bytes": 111962654,
+  "notes": [
+    "安卓备份改用原生文档数据流，兼容文件服务与未知长度文件",
+    "导出关闭后重新打开核验，显示实际字节数；失败展开文本备份",
+    "保留原存档与导入前副本，预览确认后才替换进度"
+  ],
+  "source_commit": "62218cf089522da0a5dd30554fa5fa9f72063e22"
+}
