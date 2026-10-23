@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 16,
-  "versionName": "0.16.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.16.0/EmberStation-0.16.0.apk",
-  "sha256": "cd82c3616e58da5e21365343f465ffc15ea050c4e7c68aab1cb7364c638cf43c",
-  "bytes": 111950060,
+  "versionCode": 17,
+  "versionName": "0.17.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.17.0/EmberStation-0.17.0.apk",
+  "sha256": "35b94d6679bf9e15c57f4f8fbc599d6baf0f5da0e6a4ad9155d61639e04a8a80",
+  "bytes": 111958395,
   "notes": [
-    "地图移除全部圆圈标记，仅保留四个地点标签，见闻改为文字入口",
-    "营地新增锻造坊、演武场、药圃，提升下次远行的伤害、格挡与回合恢复",
-    "五栋建筑改为两列原创插画卡片，显示当前收益、下一级效果与费用"
+    "备份恢复后立即修复主存档，损坏原件单独保留，避免反复回退",
+    "存档与导出文件均检查写入结果并读回核验，分块读取系统选中的备份",
+    "兼容UTF8 BOM和UTF16备份，明确区分空文件、截断、编码及格式错误，损坏资料停止自动覆盖"
   ],
-  "source_commit": "f4aa24ca05cef4217b9963a024d9ad837a49b87d"
+  "source_commit": "bc57d6dcf257bd064504aee57119aedf101aacf4"
 }
