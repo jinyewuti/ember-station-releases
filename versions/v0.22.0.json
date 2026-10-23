@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 22,
+  "versionName": "0.22.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.22.0/EmberStation-0.22.0.apk",
+  "sha256": "d4a3ab769ceb87a989e0810ffa17a93968d031085c38909137fb8d059a502e4d",
+  "bytes": 89590733,
+  "notes": [
+    "组牌与通关收藏改为冒险风格的紧凑手牌",
+    "三列六张、金框标识已加入、牌下加减数量",
+    "保留原有构筑规则、存档及备份兼容"
+  ],
+  "source_commit": "33be6594080721a6db59f6efdefa530a9c917997"
+}
