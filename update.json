@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 14,
-  "versionName": "0.14.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.14.0/EmberStation-0.14.0.apk",
-  "sha256": "20e8f5fd44e2fa7d288d4ac0f9b2da2fdac8ad90512f54c1c45628777fad8480",
-  "bytes": 104474001,
+  "versionCode": 15,
+  "versionName": "0.15.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.15.0/EmberStation-0.15.0.apk",
+  "sha256": "6b191b703e28f6a15e7fec7330aafd7a5c4dfac10a13caf5c0c9f8e289b3d015",
+  "bytes": 109111318,
   "notes": [
-    "冒险顶部常显等级、经验与三项属性上限",
-    "突破与随机奇遇自动作为旅途事件选择，支持暂缓及续档",
-    "卡牌消耗和主要效果采用原创图形角标与实际数字"
+    "新增原创武侠故事《照骨江湖：百脉残灯》，四章分支、两种出身与两种结局",
+    "新增16张牌、两位同行、三件装备、羁绊及通关壁纸",
+    "战利品选牌升级为插画卡面、数值图标与简短说明，点选预览再确认收下"
   ],
-  "source_commit": "19d60ef46520531c92d40861c143d3a1bbaa74f8"
+  "source_commit": "2493afed5cf2238fceb9b1685f2f1e7f0d5909ca"
 }
