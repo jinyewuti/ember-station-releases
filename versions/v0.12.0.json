@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 12,
+  "versionName": "0.12.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.12.0/EmberStation-0.12.0.apk",
+  "sha256": "5ecdb500c527813e183817148cfcff54bf6da9ccb9bcad055b13ffc70c34d637",
+  "bytes": 102044440,
+  "notes": [
+    "新增序列之蚀：七层分支、四途径、序列晋升与理智失控",
+    "原三个地区合成初灯三程新手引导，重绘地图并保留旧档续玩",
+    "新增配方记忆、多结局、两位可招募人物、封印装备与通关壁纸"
+  ],
+  "source_commit": "e44ee9bc12316fec0b1bfd8a4c33c8705644bc13"
+}
