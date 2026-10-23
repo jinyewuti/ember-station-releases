@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 10,
-  "versionName": "0.10.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.10.0/EmberStation-0.10.0.apk",
-  "sha256": "415753f65d03ae8bac4055ae2a91b46431d37b3dd75b730f308652b1e40265b9",
+  "versionCode": 11,
+  "versionName": "0.11.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.11.0/EmberStation-0.11.0.apk",
+  "sha256": "bb4a52d07b796646909cbbf1e90aa2ecb017c32aeccb2a5c1f35af645ac30cfe",
   "bytes": 96927804,
   "notes": [
-    "五种原创风格壁纸，封面收藏、放大预览和历史切换",
-    "故事包可配置加入或通关解锁壁纸，不自动替换当前背景",
-    "旧自定义壁纸自动归档；上传与恢复默认保留历史，覆盖更新保留本机收藏"
+    "大世界地图替换首页封面，点地点直接显示故事简介与解锁条件",
+    "确定地点和路线后选择人物、同行与装备，移除重复故事选择",
+    "每个地点提供独立剧情与挑战说明，保留旧存档、壁纸与自动更新"
   ],
-  "source_commit": "edd820b6f9956a0822a1dad16b9844ad283291f3"
+  "source_commit": "e6830af570bc1a58b59b69a52db1dba16c679bdb"
 }
