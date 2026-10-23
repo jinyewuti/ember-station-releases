@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 19,
+  "versionName": "0.19.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.19.0/EmberStation-0.19.0.apk",
+  "sha256": "349bc9412f79db5ac3481245eba68ca0c85e63d170fcf1b65e12625501db87e9",
+  "bytes": 111966750,
+  "notes": [
+    "修复保存时给安卓文档编号追加.json导致地址失效的问题",
+    "安卓备份选择直接保留系统原始文档地址，导入导出保持完整核验",
+    "文件服务打开失败显示操作和异常类型，保留文本备份救援"
+  ],
+  "source_commit": "a8f2924ee96f0edb2b8b8e732e442fbffa00d04c"
+}
