@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 11,
+  "versionName": "0.11.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.11.0/EmberStation-0.11.0.apk",
+  "sha256": "bb4a52d07b796646909cbbf1e90aa2ecb017c32aeccb2a5c1f35af645ac30cfe",
+  "bytes": 96927804,
+  "notes": [
+    "大世界地图替换首页封面，点地点直接显示故事简介与解锁条件",
+    "确定地点和路线后选择人物、同行与装备，移除重复故事选择",
+    "每个地点提供独立剧情与挑战说明，保留旧存档、壁纸与自动更新"
+  ],
+  "source_commit": "e6830af570bc1a58b59b69a52db1dba16c679bdb"
+}
