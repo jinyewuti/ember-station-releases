@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 24,
+  "versionName": "0.24.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.24.0/EmberStation-0.24.0.apk",
+  "sha256": "331d09fe10ab143392a6d64e3c09ddacbe45290bfcc583131ba19f79a7812dda",
+  "bytes": 91379640,
+  "notes": [
+    "奇遇降频并加入间隔，普通战斗不再每场都选牌",
+    "新增16种敌人、4名中途Boss与多种可预告战斗机制",
+    "新增8种带特殊词条的本局遗物，优化战斗难度与经验预算"
+  ],
+  "source_commit": "6f426f4ae5882415d696912c0d5d2d2c374bb437"
+}
