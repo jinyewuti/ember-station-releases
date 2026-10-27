@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 30,
-  "versionName": "0.30.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.30.0/EmberStation-0.30.0.apk",
-  "sha256": "f11629a8d18b7de8bc9b755340e5af746d84487c69124476d2a494bb966dc48a",
+  "versionCode": 31,
+  "versionName": "0.30.1",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.30.1/EmberStation-0.30.1.apk",
+  "sha256": "78f85dc146fc767097db451a85e2bbfe0aea83fa1aaff726040d0908f1b16f45",
   "bytes": 98360258,
   "notes": [
-    "序列之蚀重构为七幕分支剧情、四途径专属试炼与选择回访",
-    "新增六阶主材、风险炼药、失败保护、准则扮演和魔药消化门槛",
-    "新增30种敌人、六种机制与六类怪物美术，牌馆和江湖新增连续支线"
+    "包含0.30七幕剧情、分级魔药、准则扮演消化与新怪物",
+    "把温言、迟生的招募接回新剧院与法庭支线",
+    "保留旧档与旧同伴，新增招募结算与失败回滚检查"
   ],
-  "source_commit": "9b92c0f134c23afa3339f5280bfd9d98f891f2c4"
+  "source_commit": "e20a99f845f7072fe5f3cd519c1ee5d83a5b9023"
 }
