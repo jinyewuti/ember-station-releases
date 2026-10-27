@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 27,
+  "versionName": "0.27.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.27.0/EmberStation-0.27.0.apk",
+  "sha256": "78fe97a76f59245d13d33fac389a26e24555be431a613230359e35b346b55016",
+  "bytes": 94278489,
+  "notes": [
+    "新增古道、牌馆、仪式塔与江湖四套原创战斗环境",
+    "怪物落地位置对齐场景地面，加入两侧景物与微光粒子",
+    "保留短屏手牌、战斗规则与存档兼容"
+  ],
+  "source_commit": "da19fed38d7ed17f75aeac33a5a878a08ba9dbba"
+}
