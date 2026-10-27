@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 25,
-  "versionName": "0.25.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.25.0/EmberStation-0.25.0.apk",
-  "sha256": "a91b4904b40caa28a61ebf8cc6173b426f5b36666e69658cda520fcb4892b96b",
-  "bytes": 91379640,
+  "versionCode": 26,
+  "versionName": "0.26.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.26.0/EmberStation-0.26.0.apk",
+  "sha256": "a861f0c309d506130d58552e050e1bff7bd63fc9c870cac10a75cb25ad5a40f1",
+  "bytes": 93290382,
   "notes": [
-    "修复失控仪式重启后再次结算时序列记忆重复导致保存失败",
-    "读档、导入和结算统一整数序列并去重，保留全部有效记忆",
-    "新增四途径及所有结局的跨重启结算与奖励防重检查"
+    "新增8组原创立体渲染怪物造型，按类型覆盖现有51种敌人",
+    "战斗改为透明立绘分层舞台，加入落地阴影、呼吸与受击反馈",
+    "统一血条与意图排版，保留短屏手牌布局及原有存档兼容"
   ],
-  "source_commit": "98b2af10d59a06a54c3a77d64d7ee9a206673a60"
+  "source_commit": "184f3500bf72a845a0b3c5950f596eabea4ac153"
 }
