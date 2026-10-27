@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 29,
+  "versionName": "0.29.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.29.0/EmberStation-0.29.0.apk",
+  "sha256": "5b4e3a99146e423b0dde090d55a11868c7e33e945fbc954c17df2a24fe46bfff",
+  "bytes": 97327461,
+  "notes": [
+    "营地建设改为完整立体风格实景，五处设施沿道路分布点选",
+    "已结识的九位内置人物使用独立双步态，在营地道路往返和停留",
+    "点击同伴查看资料，拖动不误触，沿用原建筑等级费用和加成"
+  ],
+  "source_commit": "6e7933579e2d0fb005da6e405b2ea22df7e66390"
+}
