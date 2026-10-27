@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 33,
+  "versionName": "0.32.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.32.0/EmberStation-0.32.0.apk",
+  "sha256": "a61b126e58a8c56874ae9c41b0c2d40b0e0ab640442cc9cf87a179c033b9b8c4",
+  "bytes": 98774456,
+  "notes": [
+    "移除整页羊皮纸，新增简约线描场景与小比例简笔人物",
+    "剧情自动分段播放，支持暂停、回看和快读，不再逐段点击",
+    "叙事与选项限于屏幕上方三分之二，底部保留冒险景物"
+  ],
+  "source_commit": "1ac9efe9ae3a1c6c16c11a939e04d61046465b2a"
+}
