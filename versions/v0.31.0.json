@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 32,
+  "versionName": "0.31.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.31.0/EmberStation-0.31.0.apk",
+  "sha256": "608c9c53f9de341af62ca87740a6d6f820b5f9dcaa639fe61dfc90cbf33ad2ad",
+  "bytes": 99077764,
+  "notes": [
+    "剧情选择改为展开的羊皮纸面板，统一深棕文字与分段阅读",
+    "九幕场景配人物动作、雨水、火光、信件和钟声光纹",
+    "读完自动显示选项，支持快读和前文，拖动及取消不误选"
+  ],
+  "source_commit": "dc48a3541d31a8d735c278c8c09281db1283e8e7"
+}
