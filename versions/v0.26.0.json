@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 26,
+  "versionName": "0.26.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.26.0/EmberStation-0.26.0.apk",
+  "sha256": "a861f0c309d506130d58552e050e1bff7bd63fc9c870cac10a75cb25ad5a40f1",
+  "bytes": 93290382,
+  "notes": [
+    "新增8组原创立体渲染怪物造型，按类型覆盖现有51种敌人",
+    "战斗改为透明立绘分层舞台，加入落地阴影、呼吸与受击反馈",
+    "统一血条与意图排版，保留短屏手牌布局及原有存档兼容"
+  ],
+  "source_commit": "184f3500bf72a845a0b3c5950f596eabea4ac153"
+}
