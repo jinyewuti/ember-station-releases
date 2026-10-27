@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 31,
-  "versionName": "0.30.1",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.30.1/EmberStation-0.30.1.apk",
-  "sha256": "78f85dc146fc767097db451a85e2bbfe0aea83fa1aaff726040d0908f1b16f45",
-  "bytes": 98360258,
+  "versionCode": 32,
+  "versionName": "0.31.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.31.0/EmberStation-0.31.0.apk",
+  "sha256": "608c9c53f9de341af62ca87740a6d6f820b5f9dcaa639fe61dfc90cbf33ad2ad",
+  "bytes": 99077764,
   "notes": [
-    "包含0.30七幕剧情、分级魔药、准则扮演消化与新怪物",
-    "把温言、迟生的招募接回新剧院与法庭支线",
-    "保留旧档与旧同伴，新增招募结算与失败回滚检查"
+    "剧情选择改为展开的羊皮纸面板，统一深棕文字与分段阅读",
+    "九幕场景配人物动作、雨水、火光、信件和钟声光纹",
+    "读完自动显示选项，支持快读和前文，拖动及取消不误选"
   ],
-  "source_commit": "e20a99f845f7072fe5f3cd519c1ee5d83a5b9023"
+  "source_commit": "dc48a3541d31a8d735c278c8c09281db1283e8e7"
 }
