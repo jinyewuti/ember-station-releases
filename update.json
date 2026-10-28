@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 34,
-  "versionName": "0.32.1",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.32.1/EmberStation-0.32.1.apk",
-  "sha256": "64e7fdf569fa216e8314685496f790ef1798b6e57892361daf833773884f4261",
+  "versionCode": 35,
+  "versionName": "0.33.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.33.0/EmberStation-0.33.0.apk",
+  "sha256": "167ff4c56280f63a61c73695f4354213852708e723e6f1d5a31bec40c9aaa51b",
   "bytes": 98778552,
   "notes": [
-    "修复守夜人序列3击杀怪物后因过期回溯记录导致保存失败",
-    "保留战斗内回溯，胜利、失败和放弃战斗时清理失效记录",
-    "保存失败显示具体原因并回退本次操作，原存档可以继续"
+    "剧情选项移回屏幕底部，中间保留冒险景物过渡",
+    "加大场景与字幕区域，画面和整块字幕留白都可点按加速",
+    "扩大暂停回看按钮，适配短屏、长屏及三个选项"
   ],
-  "source_commit": "2e9acaa87bec6da93d91f7af086229527136c49b"
+  "source_commit": "462397d1a12712d58e1a2a8d9581e17f70623a21"
 }
