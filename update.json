@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 36,
-  "versionName": "0.33.1",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.33.1/EmberStation-0.33.1.apk",
-  "sha256": "97e00b0147b59ea6a1a56fbd92dfa152cdfdbde2ce988b5abc38ac3eedaf83a9",
-  "bytes": 98778552,
+  "versionCode": 37,
+  "versionName": "0.34.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.34.0/EmberStation-0.34.0.apk",
+  "sha256": "8f6cd4598fedeb19e6a378b6ca1bbe664a370a33905d4c5e00a19f33fd7e5782",
+  "bytes": 98791138,
   "notes": [
-    "剧情确认弹窗移到字幕与底部选项之间居中显示",
-    "点击中间景物空白也能加速剧情，拖动不误触",
-    "短屏自动收紧场景，长确认说明滚动查看，关闭恢复原布局"
+    "新增仅自动战斗与全程自动两种模式，顶部一键停止",
+    "全程自动处理剧情、选牌、成长、休整与炼药",
+    "新增1/2/4倍速，保存失败或僵局自动暂停，保留手动接管"
   ],
-  "source_commit": "c2a0ac24018ae22bd6fb963ac1c06169830217c0"
+  "source_commit": "a78da513bae2e199ce2480fca608058c8ba7dadc"
 }
