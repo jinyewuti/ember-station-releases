@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 37,
+  "versionName": "0.34.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.34.0/EmberStation-0.34.0.apk",
+  "sha256": "8f6cd4598fedeb19e6a378b6ca1bbe664a370a33905d4c5e00a19f33fd7e5782",
+  "bytes": 98791138,
+  "notes": [
+    "新增仅自动战斗与全程自动两种模式，顶部一键停止",
+    "全程自动处理剧情、选牌、成长、休整与炼药",
+    "新增1/2/4倍速，保存失败或僵局自动暂停，保留手动接管"
+  ],
+  "source_commit": "a78da513bae2e199ce2480fca608058c8ba7dadc"
+}
