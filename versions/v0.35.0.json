@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 38,
+  "versionName": "0.35.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.35.0/EmberStation-0.35.0.apk",
+  "sha256": "2218855f713c505a6bf3b949667c1cb5affaf5c06afa6260fe73e5c4fa292ed5",
+  "bytes": 99963385,
+  "notes": [
+    "新增9幕场景与12类透明道具，段落分镜驱动人物、天气和镜头变化",
+    "121个内置事件接入分段演出，选择结果播放救援、入队、证词或离场反馈",
+    "炼药成功/失败按实际存档结果播放不同效果，兼容全程自动和倍速"
+  ],
+  "source_commit": "d14b02dfc5246618ea85cb10671d435776342907"
+}
