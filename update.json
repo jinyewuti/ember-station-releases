@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 37,
-  "versionName": "0.34.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.34.0/EmberStation-0.34.0.apk",
-  "sha256": "8f6cd4598fedeb19e6a378b6ca1bbe664a370a33905d4c5e00a19f33fd7e5782",
-  "bytes": 98791138,
+  "versionCode": 38,
+  "versionName": "0.35.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.35.0/EmberStation-0.35.0.apk",
+  "sha256": "2218855f713c505a6bf3b949667c1cb5affaf5c06afa6260fe73e5c4fa292ed5",
+  "bytes": 99963385,
   "notes": [
-    "新增仅自动战斗与全程自动两种模式，顶部一键停止",
-    "全程自动处理剧情、选牌、成长、休整与炼药",
-    "新增1/2/4倍速，保存失败或僵局自动暂停，保留手动接管"
+    "新增9幕场景与12类透明道具，段落分镜驱动人物、天气和镜头变化",
+    "121个内置事件接入分段演出，选择结果播放救援、入队、证词或离场反馈",
+    "炼药成功/失败按实际存档结果播放不同效果，兼容全程自动和倍速"
   ],
-  "source_commit": "a78da513bae2e199ce2480fca608058c8ba7dadc"
+  "source_commit": "d14b02dfc5246618ea85cb10671d435776342907"
 }
