@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 36,
+  "versionName": "0.33.1",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.33.1/EmberStation-0.33.1.apk",
+  "sha256": "97e00b0147b59ea6a1a56fbd92dfa152cdfdbde2ce988b5abc38ac3eedaf83a9",
+  "bytes": 98778552,
+  "notes": [
+    "剧情确认弹窗移到字幕与底部选项之间居中显示",
+    "点击中间景物空白也能加速剧情，拖动不误触",
+    "短屏自动收紧场景，长确认说明滚动查看，关闭恢复原布局"
+  ],
+  "source_commit": "c2a0ac24018ae22bd6fb963ac1c06169830217c0"
+}
