@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 40,
+  "versionName": "0.37.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.37.0/EmberStation-0.37.0.apk",
+  "sha256": "0f3d4bf44a028ac30ae5ad5116cc5edc41cab2222ed7320340379e26a9f08336",
+  "bytes": 99988283,
+  "notes": [
+    "原生3D炼药装置：展开、投入晶体、按实际成功或失败呈现药液变化，服药可见液面下降",
+    "灰烬牌馆救援分支：转动钥匙、锁链脱落、开门送出客人；支持旋转缩放、略过、倍速与全程自动",
+    "同签名覆盖升级保留存档；演出只在检查点成功后出现，不改变概率、材料或奖励"
+  ],
+  "source_commit": "feff75adfe5385dab2ba4c31cf5603bfc0df4d9a"
+}
