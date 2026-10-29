@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 39,
+  "versionName": "0.36.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.36.0/EmberStation-0.36.0.apk",
+  "sha256": "fe88a057016cba41e97e8849b5e16475acfe44a2f194d936f842d49bbe3da52c",
+  "bytes": 99975834,
+  "notes": [
+    "渡灯拆解、修复灯芯、组装亮灯的原生3D互动剧情",
+    "获得铃坠后可旋转与缩放查看；支持略过和全程自动推进",
+    "保持原签名与存档兼容，覆盖安装保留进度"
+  ],
+  "source_commit": "0e858e2341919bd339dfe72cccdda2f8d7e30b7c"
+}
