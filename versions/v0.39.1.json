@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 43,
+  "versionName": "0.39.1",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.39.1/EmberStation-0.39.1.apk",
+  "sha256": "16eb4546194b6e8025500bbb59de7c0884c322427eea75662c9b8e9fb6e6075d",
+  "bytes": 100014038,
+  "notes": [
+    "修复动态效果难以察觉：大地图也加入流动云雾，避免只动被地图遮住的最底层壁纸",
+    "加入以屏幕像素绘制的可见落叶、光点与水纹，增强水波和灯火，地点与文字保持固定",
+    "动态开关同时控制大地图和全屏背景，保留暂停、原有收藏、原签名和存档"
+  ],
+  "source_commit": "9a6f4bd7181e399d51b77f87fa0a11ab2a6d01c0"
+}
