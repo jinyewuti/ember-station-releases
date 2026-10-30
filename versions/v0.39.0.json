@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 42,
+  "versionName": "0.39.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.39.0/EmberStation-0.39.0.apk",
+  "sha256": "b4ec0b6812cba6c3573ab0c77d54dca2cde7f2ec8d3432d7ffc0bdc330687a70",
+  "bytes": 100009787,
+  "notes": [
+    "主界面与冒险全屏壁纸动态化：缓慢景深移动、水波反光、灯火、雾气、星点与落叶按壁纸匹配",
+    "壁纸收藏新增动态开关，独立保存；关闭后恢复静态原图，自定义图片使用轻微景深效果",
+    "后台与弹窗暂停，重绘不重播、不改存档/历史；沿用原签名覆盖更新保留进度"
+  ],
+  "source_commit": "4165ce74d70399f301473204d32ce47b0407d85a"
+}
