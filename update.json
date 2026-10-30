@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "app_id": "cn.emberstation.game",
-  "versionCode": 41,
-  "versionName": "0.38.0",
-  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.38.0/EmberStation-0.38.0.apk",
-  "sha256": "4d969b36125e537f592c0a16f20b35b515dadea81f12f552c093c0af9b6baf9a",
-  "bytes": 100001181,
+  "versionCode": 42,
+  "versionName": "0.39.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.39.0/EmberStation-0.39.0.apk",
+  "sha256": "b4ec0b6812cba6c3573ab0c77d54dca2cde7f2ec8d3432d7ffc0bdc330687a70",
+  "bytes": 100009787,
   "notes": [
-    "手牌翻转亮相、选中悬浮倾斜与卡边高光；普通重绘不重播整手翻牌",
-    "出牌从实际卡位飞向敌人或人物，抵达后衔接打击闪光、晃动与伤害数字；自动战斗同步支持",
-    "剧情天气和灯光平滑过渡，救援暖灯、保留证据、碎镜和开门状态读取既有存档；同签名覆盖保留进度"
+    "主界面与冒险全屏壁纸动态化：缓慢景深移动、水波反光、灯火、雾气、星点与落叶按壁纸匹配",
+    "壁纸收藏新增动态开关，独立保存；关闭后恢复静态原图，自定义图片使用轻微景深效果",
+    "后台与弹窗暂停，重绘不重播、不改存档/历史；沿用原签名覆盖更新保留进度"
   ],
-  "source_commit": "e1eaa1322a8cd444a00cf76105fcd2f9bcd7fb88"
+  "source_commit": "4165ce74d70399f301473204d32ce47b0407d85a"
 }
