@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "app_id": "cn.emberstation.game",
+  "versionCode": 41,
+  "versionName": "0.38.0",
+  "apkUrl": "https://github.com/jinyewuti/ember-station-releases/releases/download/v0.38.0/EmberStation-0.38.0.apk",
+  "sha256": "4d969b36125e537f592c0a16f20b35b515dadea81f12f552c093c0af9b6baf9a",
+  "bytes": 100001181,
+  "notes": [
+    "手牌翻转亮相、选中悬浮倾斜与卡边高光；普通重绘不重播整手翻牌",
+    "出牌从实际卡位飞向敌人或人物，抵达后衔接打击闪光、晃动与伤害数字；自动战斗同步支持",
+    "剧情天气和灯光平滑过渡，救援暖灯、保留证据、碎镜和开门状态读取既有存档；同签名覆盖保留进度"
+  ],
+  "source_commit": "e1eaa1322a8cd444a00cf76105fcd2f9bcd7fb88"
+}
